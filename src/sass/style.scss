@@ -1,0 +1,14 @@
+html{
+  background-color: #FDAB95;
+  color: #33464F;
+  text-align: center;
+}
+h2{
+  color: blanchedalmond;
+  &:hover{
+    color:#33464F;
+  }
+}
+footer{
+  background-color: #F4F4F4;
+}
